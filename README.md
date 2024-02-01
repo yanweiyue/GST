@@ -30,7 +30,3 @@ For OGBN_arxiv demonstration, execute the following commands.
 ```
 python main_graphsage.py --use_gpu --total_epoch 300 --spar_adj --remain 0.4 --pretrain_epoch 600  --delta 3 --accumulation-n 2
 ```
-
-
-
-# GST
